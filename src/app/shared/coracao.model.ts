@@ -14,6 +14,4 @@ export class Coracao{
             return this.urlCoracaoVazio
         }
     }
-
-
 }
