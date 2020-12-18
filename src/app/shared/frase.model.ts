@@ -7,6 +7,4 @@ export class Frase{
     //}
     //refactore - no próprio construtor criamos os atributos da classe
     constructor(public fraseEng: string, public frasePTBr: string){}
-
-    
 }

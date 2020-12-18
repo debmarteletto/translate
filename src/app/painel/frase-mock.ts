@@ -5,5 +5,3 @@ export const Frases: Frase[] = [
     {fraseEng: 'I like to learn', frasePTBr: 'Eu gosto de aprender'},
     {fraseEng: 'I am learning Angular', frasePTBr: 'Estou aprendendo Angular'},
     {fraseEng: 'I am learning Typescript', frasePTBr: 'Estou aprendendo Typescript'},
-
-]
